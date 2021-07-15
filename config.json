@@ -4,7 +4,7 @@
   "author": "MrG3P5",
   "NomorSELF": "6283115810116@c.us",
   "packname": "SELF-BOT",
-  "isSelfOnlys": true,
+  "isSelfOnlys": false,
   "afkkontak": false,
   "afktag": {
     "status": false,
